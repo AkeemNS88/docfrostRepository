@@ -1,3 +1,27 @@
+header {
+    padding: 10px;
+    background-color: dimgray;
+    font-size: x-large;
+    font-style: oblique;
+};
+
 body {
-    background: blue;
+     h2 {
+        text-align: center;
+        background-color: palegoldenrod;
+        background-size: cover;
+        display: block;
+        font-size: 1.5em;
+        font-family: cursive;
+        margin-block-start: 0.83em;
+        margin-block-end: 0.83em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+        font-weight: bold
+    };
+    h3 {
+        font-size: x-large;
+        text-align: center;
+        font-family: cursive;
+        background-color: palegoldenrod;
   }
